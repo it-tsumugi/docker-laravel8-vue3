@@ -2,20 +2,20 @@
 laravel8、vue3、interiajs、typescriptを利用する際のテンプレート
 
 # パッケージとバージョン
-laravel8
-jetstream(interiajs) (2.4)
-laravel-mix (6.x)
-vue3
-typescript
-Docker
-Dcker Compose
+laravel8  
+jetstream(interiajs) (2.4)  
+laravel-mix (6.x)  
+vue3  
+typescript  
+Docker  
+Dcker Compose  
 
-nginx 1.19
-php 7.4.1
-composer 2.0.x
-nodejs 16.x
-npm 8.x
-mysql 8.0
+nginx 1.19  
+php 7.4.1  
+composer 2.0.x  
+nodejs 16.x  
+npm 8.x  
+mysql 8.0  
 
 # 起動方法
 プロジェクトディレクトリ直下でやること。
