@@ -1,5 +1,5 @@
 # リポジトリについて
-laravel8、vue3、interiajs、typescriptを利用する際のテンプレート
+laravel8、vue3、interiajs、typescriptを利用する際のサンプル
 
 # パッケージとバージョン
 laravel8  
