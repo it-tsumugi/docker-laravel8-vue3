@@ -18,10 +18,10 @@ npm 8.x
 mysql 8.0  
 
 # 起動方法
-プロジェクトディレクトリ直下でやること。
-コマンドではdockerのCLIプラグインとしてDocker Composeを利用している。
-docker-composeでも動作は確認しているが、保証はしない。
-起動後はlocalhost:80へアクセスで見れる。
+プロジェクトディレクトリ直下でやること。  
+コマンドではdockerのCLIプラグインとしてDocker Composeを利用している。  
+docker-composeでも動作は確認しているが、保証はしない。  
+起動後はlocalhost:80へアクセスで見れる。  
 
 docker imageの作成
 
